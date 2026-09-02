@@ -1,8 +1,6 @@
 {
   "version": "V.7.0",
-  "mensaje": "Esta no es una aplicación que simplemente se pueda replicar con IA. Detrás existe ingeniería, razonamiento y algoritmos propios, desarrollados para alcanzar hasta un 96 % de efectividad.
-Ante posibles intentos de crackeo, parte importante del código siempre fue alojada en nuestros servidores, pensando precisamente en este escenario.
-Esta versión dejará de funcionar próximamente. Usuarios actuales, comunicarse para la futura actualización. Solo para Usuarios fieles a MVP"
-  "url_descarga": "Solo para Usuarios adquiridos a MVP"
+  "mensaje": "Esta no es una aplicación que simplemente se pueda replicar con IA. Detrás existe ingeniería, razonamiento y algoritmos propios, desarrollados para alcanzar hasta un 96 % de efectividad.\n\nAnte posibles intentos de crackeo, parte importante del código siempre fue alojada en nuestros servidores, pensando precisamente en este escenario.\n\nEsta versión dejará de funcionar próximamente. Usuarios actuales, comunicarse para la futura actualización. Solo para usuarios fieles a MVP.",
+  "url_descarga": "Solo para usuarios que adquirieron MVP",
   "forzar": false
 }
